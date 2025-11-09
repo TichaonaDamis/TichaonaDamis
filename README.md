@@ -9,8 +9,8 @@ Data Visualization: Power BI, Tableau, Matplotlib, Seaborn<br><br>
 Cloud & Big Data: AWS, Azure, Snowflake<br><br>
 Soft Skills: Problem-solving, Collaboration, Data storytelling<br><br>
 
-## 🌐 Website: DamisTech.com
-
+## 🌐 Website: 
+DamisTech.com
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/SeanDamis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tichaona-damis/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@seandamis) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@seandamis) 
 
