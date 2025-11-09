@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hi, I’m Tichaona Damis, a data professional passionate about transforming complex datasets into actionable insights. I specialize in data analysis, machine learning, and cloud-based data solutions, helping organizations make smarter, data-driven decisions<br>
+Hi, I’m Tichaona Damis, a data professional passionate about transforming complex datasets into actionable insights. I specialize in data analysis, machine learning, and cloud-based data solutions, helping organizations make smarter, data-driven decisions.<br>
                                                                                                                                                                                                                                                                  
                                                                                                                                                                                                                                                               
 
