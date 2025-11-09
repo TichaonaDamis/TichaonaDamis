@@ -1,5 +1,17 @@
-# 💫 About Me:
-Hi, I’m Tichaona Damis, a data professional passionate about transforming complex datasets into actionable insights. I specialize in data analysis, machine learning, and cloud-based data solutions, helping organizations make smarter, data-driven decisions<br><br>Skills & Expertise<br>Programming: Python, R, SQL<br><br>Machine Learning: Regression, Classification, NLP, Recommender Systems<br><br>Data Visualization: Power BI, Tableau, Matplotlib, Seaborn<br><br>Cloud & Big Data: AWS, Azure, Snowflake<br><br>Soft Skills: Problem-solving, Collaboration, Data storytelling<br>
+## 💫 About Me:
+Hi, I’m Tichaona Damis, a data professional passionate about transforming complex datasets into actionable insights. I specialize in data analysis, machine learning, and cloud-based data solutions, helping organizations make smarter, data-driven decisions<br>
+                                                                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                                              
+
+## Skills & Expertise
+
+# Programming: Python, R, SQL<br><br>Machine Learning: Regression, Classification, NLP, Recommender Systems<br><br>
+
+# Data Visualization: Power BI, Tableau, Matplotlib, Seaborn<br>
+
+# Cloud & Big Data: AWS, Azure, Snowflake<br>
+
+# Soft Skills: Problem-solving, Collaboration, Data storytelling<br>
 
 
 ## 🌐 Socials:
