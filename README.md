@@ -5,9 +5,9 @@ Hi, I’m Tichaona Damis, a data professional passionate about transforming comp
 
 ## Skills & Expertise
 Programming: Python, R, SQL<br><br>Machine Learning: Regression, Classification, NLP, Recommender Systems<br><br>
-Data Visualization: Power BI, Tableau, Matplotlib, Seaborn<br>
-Cloud & Big Data: AWS, Azure, Snowflake<br>
-Soft Skills: Problem-solving, Collaboration, Data storytelling<br>
+Data Visualization: Power BI, Tableau, Matplotlib, Seaborn<br><br>
+Cloud & Big Data: AWS, Azure, Snowflake<br><br>
+Soft Skills: Problem-solving, Collaboration, Data storytelling<br><br>
 
 
 ## 🌐 Socials:
